@@ -1,4 +1,4 @@
-# html-css-simple-chocolate
+# html-css-chocolate-simple
 
 Про курс: Основи веб-розробки
 
